@@ -1,0 +1,2 @@
+nama_produk: thinkpad p15 harga: 20000 jumlah: 30
+nama_produk: extica harga: 500 jumlah: 40

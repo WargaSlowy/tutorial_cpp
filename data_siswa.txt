@@ -1,0 +1,6 @@
+pocut, 2, 80.5
+nizwa, 3, 95.5
+pocut, 2, 80.5
+nizwa, 3, 95.5
+pocut, 2, 80.5
+nizwa, 3, 95.5

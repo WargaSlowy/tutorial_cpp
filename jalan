@@ -1,0 +1,5 @@
+#!/bin/bash
+
+g++ -o "$1" "$1".cpp
+mv "$1" bin_files
+./bin_files/"$1"
